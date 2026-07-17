@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/balakandala/clibs/
+    url: https://content.da.live/kandalabala/clibs/
     type: markup
