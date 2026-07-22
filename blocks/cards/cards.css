@@ -10,6 +10,7 @@
 .cards > ul > li {
   border: 1px solid #ff0000;
   background-color: var(--background-color);
+    color: #ff0000;
 }
 
 .cards .cards-card-body {
