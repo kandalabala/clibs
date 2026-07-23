@@ -8,9 +8,9 @@
 }
 
 .cards > ul > li {
-  border: 1px solid #ff0000;
+  border: 1px solid var(--cards-bordertext-color);
   background-color: var(--background-color);
-    color: #ff0000;
+    color: var(--cards-bordertext-color);
 }
 
 .cards .cards-card-body {
